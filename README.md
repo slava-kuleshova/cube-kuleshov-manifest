@@ -1,3 +1,10 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>Verification: fbb94d3cefb30470</body>
+</html>
+
 ![Обложка манифеста](00_0_cover.png)
 
 # Междисциплинарное исследование и кураторский манифест
